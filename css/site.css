@@ -1,0 +1,48 @@
+body {
+	margin-top: 16px;
+	margin-bottom: 30px;
+}
+
+
+.spinner {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: url("../img/spinner.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    opacity: .8;
+}
+
+
+.gallery .thumb {
+	margin: 20px auto;
+}
+
+.gallery .error-wrapper {
+	margin: 20px 0;
+}
+
+.gallery .error-wrapper .error {
+	font-style: italic;
+}
+
+
+footer {
+	margin-top: 50px;
+	color: #333;
+}
+
+footer .footer-content {
+	text-align: right;
+	font-size: 0.7em;
+}
+
+footer .footer-content p {
+	margin-bottom: 3px;
+}
+
+footer .flickr-notice {
+	font-style: italic;
+	font-size: 0.9em;
+}
