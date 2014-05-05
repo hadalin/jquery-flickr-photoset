@@ -70,9 +70,16 @@
         </div>
 
 
-        <!-- Engage gallery -->
         <script type="text/javascript">
         $(function() {
+            
+            // Set blueimp gallery options.
+            $.extend(blueimp.Gallery.prototype.options, {
+                useBootstrapModal: false,
+                hidePageScrollbars: false
+            });
+
+            // Engage gallery.
             $('.gallery').flickr({
                 apiKey: '21d058f1ef5397e289a3198d2c96f361',
                 photosetId: '72157629263306432'
