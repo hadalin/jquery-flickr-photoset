@@ -11,3 +11,7 @@ I know, I know, too many depencencies, but somebody might find it useful.
 - [imagesLoaded](https://github.com/desandro/imagesloaded)
 - [Gallery](https://github.com/blueimp/Gallery)
 - [Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)
+
+## Example
+
+[http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html](http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html)
