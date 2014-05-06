@@ -4,6 +4,10 @@ jQuery plugin for generating photoset gallery using [Bootstrap](http://getbootst
 
 I know, I know, too many depencencies, but somebody might find it useful.
 
+## Example
+
+[http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html](http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html)
+
 ## Dependencies
 
 - [jQuery](http://jquery.com)
@@ -12,6 +16,16 @@ I know, I know, too many depencencies, but somebody might find it useful.
 - [Gallery](https://github.com/blueimp/Gallery)
 - [Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery)
 
-## Example
+## Instructions
 
-[http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html](http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html)
+Add dependencies, include gallery thumbnails and blueimp gallery snippets and call flickr plugin (see `index.html`):
+```
+<script type="text/javascript">
+$(function() {
+    $('.gallery').flickr({
+        apiKey: '60ac8913e80833ef7as73138g9cddjdk',
+        photosetId: '74157336137235911'
+    });
+});
+</script>
+```
