@@ -20,7 +20,7 @@
             loadingSpeed: 38,
             photosLimit: 30
         },
-        apiUrl = 'http://api.flickr.com/services/rest/',
+        apiUrl = 'https://api.flickr.com/services/rest/',
         photos = [];
 
     // The actual plugin constructor
