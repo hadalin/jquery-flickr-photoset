@@ -6,7 +6,7 @@ I know, I know, too many depencencies, but somebody might find it useful.
 
 ## Example
 
-[http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html](http://htmlpreview.github.io/?https://github.com/hadalin/jquery-flickr-photoset/blob/master/index.html)
+[https://cdn.rawgit.com/hadalin/jquery-flickr-photoset/55c6594f3fb2b11d0ca826760a54baacd76a365a/index.html](https://cdn.rawgit.com/hadalin/jquery-flickr-photoset/55c6594f3fb2b11d0ca826760a54baacd76a365a/index.html)
 
 ## Dependencies
 
